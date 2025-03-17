@@ -1,12 +1,12 @@
-# Hi there! I'm Akram CHRAIBI 👋
+# Hi there! I'm Akram CHRAIBI :D
 
 Welcome to my GitHub profile! I'm passionate about Networks and Cybersecurity, and I love working on exciting projects that challenge me and allow me to grow.
 
 ## About Me
 
-- 🌱 I’m currently learning Network and Telecommunication Engineering in Mohammadia School of Engineers [EMI](https://www.emi.ac.ma/)
-- 📫 How to reach me: akramchraibi@gmail.com
-- ⚡ Hobbies: IT and swimming  
+- I’m currently learning Network and Telecommunication Engineering in Mohammadia School of Engineers [EMI](https://www.emi.ac.ma/)
+- How to reach me: akramchraibi@gmail.com
+- Hobbies: IT and swimming  
 
 ## Skills
 
@@ -27,4 +27,4 @@ Feel free to reach out to me through any of the following:
 - [Twitter/X](https://x.com/real__akram)
 - [Personal Website/Blog](your-website)
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
